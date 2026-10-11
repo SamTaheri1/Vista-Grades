@@ -203,6 +203,8 @@ Apply these rules whenever creating or editing an exam-practice PDF. They do not
 - The generated mock exam PDFs must follow exactly what is taught in the course content. Do not add topics that are not listed. If a course content section is too broad or unclear, more details will be provided in the prompt.
 - Common course outlines are located in the “Engineering Core” folder for courses listed in the “Engineering Core” section of the website.
 - Every generated PDF must stay consistent in design, structure, formatting, problem style, syntax, and solvability.
+- Long answer questions in the each PDF, whether core or advanced, must avoid unnecessary concepts/subquestions not learned in course and must be simple and to the point, avoiding heavier concepts, so that a user does not have a harder time solving it than the average user.
+- Questions must have a maximum of 3 subquestions, and 2 preferably in most cases to finish the mock exam in a reasonable amount of time.
 
 ### Code Approval
 - Do not commit to GitHub unless prompted.

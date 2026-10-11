@@ -178,3 +178,50 @@ Status: Private paid PDFs; signup email added on authorized download
 - Centered the buyer email beside copyright in personalized downloads, including wrapped long addresses.
 - Added an answer-key indication to every answer-key page header; used black solution text and question-number-only headings.
 - Preserved questions and solution content. Compiled both PDFs, verified counts and answers, and visually reviewed every page and personalized footer previews.
+
+## COMP 232: Core Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-10\
+Verified pages: 12\
+Questions: 24 (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120\
+Answer key: Included\
+Status: Private paid PDF master; signup-email personalization verified with the existing authorized-download function
+
+- Created practice from the supplied course-content outline, covering logic, proofs, sets, functions, sequences, cardinality, number theory, cryptography, induction, recursion, and relations.
+- Matched the latest approved reference typography, colours, first-page overview, centered footer, and blank long-answer areas.
+- Compiled LaTeX, visually reviewed every page, independently checked answers, and verified question counts, marks, question-led pages, and black answer-key text.
+- Verified normal and long-email footer previews. Kept PDFs, sources, and generation files outside the repository; no website publication or GitHub commit performed.
+
+## COMP 232: Advanced Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-10\
+Verified pages: 13\
+Questions: 24 (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120\
+Answer key: Included\
+Status: Private paid PDF master; signup-email personalization verified with the existing authorized-download function
+
+- Created deeper proof and application practice within the supplied course-content outline.
+- Matched the approved reference format with generous answer areas and question-number-only, black answer-key headings.
+- Compiled LaTeX, visually reviewed every page, independently checked mathematical answers, and verified question counts and 120-point allocation.
+- Confirmed question-led pages, answer-key headers, and centered signup-email footer previews, including long addresses.
+- Kept all exam artifacts private and outside the repository; no website publication or GitHub commit performed.
+
+## COMP 232: Core and Advanced Exam Practice - revision 1.1
+
+Version: 1.1\
+Last updated: 2026-10-10\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Replaced encryption exercises with simpler remainder and congruence practice, and replaced pseudocode with numerical recursive-sequence questions.
+- Simplified both long-answer sections to focused classroom concepts with one or two parts per question, keeping Advanced modestly more demanding.
+- Added one matrix-based relation-closure long-answer question to each edition and updated all affected answers.
+- Recompiled both LaTeX sources, visually inspected all 24 pages, checked the revised calculations and closure matrices, and verified question counts, points, headers, and email-footer previews.
+- Preserved the approved formatting and private storage; no exam content added to the repository or published.
