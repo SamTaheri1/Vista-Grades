@@ -225,3 +225,19 @@ Status: Private paid PDF masters; signup-email personalization verified
 - Added one matrix-based relation-closure long-answer question to each edition and updated all affected answers.
 - Recompiled both LaTeX sources, visually inspected all 24 pages, checked the revised calculations and closure matrices, and verified question counts, points, headers, and email-footer previews.
 - Preserved the approved formatting and private storage; no exam content added to the repository or published.
+
+## COMP 232: Core and Advanced Exam Practice - revision 1.2
+
+Version: 1.2\
+Last updated: 2026-10-12\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Replaced Question 20 in each edition with a multi-step rules-of-inference exercise and a short counterexample task; Advanced also uses proof by cases.
+- Replaced Question 4 in each edition with a simpler contextual argument using universal and existential statements.
+- Updated the answer keys with named inference rules and checked the arguments, consistency of premises, counterexamples, and unique multiple-choice answers.
+- Recompiled both PDFs, visually reviewed all affected question and answer pages, and verified unchanged page content elsewhere, counts, points, black answer text, and email-footer previews.
+- Preserved the remaining questions, matrix-closure exercises, approved layout, and private storage.

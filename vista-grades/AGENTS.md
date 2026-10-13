@@ -150,6 +150,36 @@ Apply these rules whenever creating or editing an exam-practice PDF. They do not
 - Follow the supplied course outline and requested topic coverage.
 - Advanced practice should require deeper reasoning and harder applications than Core practice.
 
+### Reusable lessons from PDF revisions
+
+This file is a living instruction and feedback record for future agents, not model-weight training. After correcting a user-identified PDF flaw, capture the reusable lesson here when it applies beyond that one question. Refine an existing rule before adding a duplicate. Keep examples generic; never store private exam content, answer keys, or course-specific question numbers here. A one-off request becomes a general rule only when the user's intent supports that generalization. Explicit instructions for the current task take precedence.
+
+#### Content selection and difficulty
+- Before drafting, map the planned questions to the supplied course-content topics. Choose familiar classroom applications of those topics; a broad topic label does not justify adding specialized techniques or extra prerequisites.
+- Core should test direct application of taught concepts. Advanced should require more reasoning through those same concepts, such as combining familiar rules, explaining a result, or testing a changed assumption. Do not create difficulty through obscure contexts, long wording, excessive calculation, or unrelated theory.
+- Keep long-answer questions focused on one main learning objective. Prefer one or two purposeful parts, with a maximum of three. Remove redundant follow-ups and unrelated tasks; a single complete proof or calculation does not need artificial subparts.
+- When simplifying, preserve a meaningful skill to assess. Replace a complicated application with a direct exercise in its underlying concept, rather than merely shortening the wording or lowering the numbers.
+- Use code or pseudocode only when the requested coverage calls for programming or algorithm analysis. For a mathematical concept that can be assessed directly, prefer a calculation, sequence, relation, diagram, or proof. A code-free request excludes code from both questions and answers.
+- Avoid specialized story settings that require more explanation than the concept being tested. For example, an elaborate applied system can be replaced by a direct use of its underlying mathematical rule when the requested coverage permits. This is not a blanket ban on any course topic.
+
+#### Question design and representations
+- Mix direct calculations, interpretation, and reasoning as appropriate to the course. Use short, familiar situations for accessible conceptual MCQs; keep the premises explicit and ask what necessarily follows, rather than relying on everyday assumptions.
+- Where reasoning rules are taught, a harder question may combine several familiar rules in a short argument. Require justified steps, and optionally a counterexample after changing a premise. Apply the same idea to other courses through their own taught methods; do not insert logic exercises into unrelated subjects.
+- Use the representation students are expected to work with. For example, a topic taught with matrices, tables, graphs, or diagrams should include a suitable concrete representation when relevant to the requested coverage. State ordering, labels, units, domains, and conventions needed to interpret it.
+- Every MCQ must have exactly one defensible answer. Distractors should reflect plausible mistakes, not ambiguous wording. In quantified situations, distinguish statements about every member from statements about some members; do not assume existence from a universal statement alone.
+
+#### Revision and presentation discipline
+- Replace only the questions requested unless a broader revision is authorized. Preserve unrelated content and the approved design. Update the corresponding answer, explanation, marks, and any affected references together.
+- Preserve the required question counts and total points when removing subparts. Allocate marks to meaningful work and ensure each solution's marking guidance matches the revised task.
+- Size blank answer areas for the expected work, especially proofs, matrices, and drawings. Match the approved visual style without forcing an identical page count; avoid both cramped solutions and unnecessary page breaks.
+- Keep premises and supplied data together with the question. Keep each answer-key entry intact where practical, with clear mathematical steps and the required black text and question-number-only heading.
+
+#### Correctness after changes
+- Solve each new or changed question from its stated data before finalizing the key. Check assumptions, domains, boundary cases, and whether the requested result actually follows. Accept equivalent valid methods where appropriate.
+- For an argument, verify that its premises can hold together, that the conclusion follows, and that any proposed counterexample satisfies all retained premises while falsifying the conclusion. For an MCQ, check every option, not just the intended answer.
+- Use independent calculations, enumeration, or other suitable checks when helpful. Recheck affected calculations and representations after any edit; a correct earlier version does not validate a revised question.
+- Recompile and visually inspect affected question and answer pages, checking neighboring content for reflow. Verify the final page count, all question counts and marks, headers, footers, and answer-key consistency before recording the update.
+
 ### Format and typography
 - Write every PDF in LaTeX.
 - Match the latest user-approved PDF’s layout, typography, spacing, colours, headers, footers, and answer-space style.
@@ -203,8 +233,7 @@ Apply these rules whenever creating or editing an exam-practice PDF. They do not
 - The generated mock exam PDFs must follow exactly what is taught in the course content. Do not add topics that are not listed. If a course content section is too broad or unclear, more details will be provided in the prompt.
 - Common course outlines are located in the “Engineering Core” folder for courses listed in the “Engineering Core” section of the website.
 - Every generated PDF must stay consistent in design, structure, formatting, problem style, syntax, and solvability.
-- Long answer questions in the each PDF, whether core or advanced, must avoid unnecessary concepts/subquestions not learned in course and must be simple and to the point, avoiding heavier concepts, so that a user does not have a harder time solving it than the average user.
-- Questions must have a maximum of 3 subquestions, and 2 preferably in most cases to finish the mock exam in a reasonable amount of time.
+- Apply the reusable revision lessons above to the current course's taught concepts; examples illustrate design principles, not mandatory topics or question templates for every course.
 
 ### Code Approval
 - Do not commit to GitHub unless prompted.
