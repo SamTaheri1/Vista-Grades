@@ -241,3 +241,20 @@ Status: Private paid PDF masters; signup-email personalization verified
 - Updated the answer keys with named inference rules and checked the arguments, consistency of premises, counterexamples, and unique multiple-choice answers.
 - Recompiled both PDFs, visually reviewed all affected question and answer pages, and verified unchanged page content elsewhere, counts, points, black answer text, and email-footer previews.
 - Preserved the remaining questions, matrix-closure exercises, approved layout, and private storage.
+
+## COMP 249: Core Exam Practice and Advanced Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-13\
+Verified pages: Core 13; Advanced 14\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified using the existing authorized-download function
+
+- Created both editions from the supplied course-content outline, with direct applications in Core and deeper tracing, debugging, and implementation in Advanced.
+- Covered the listed Java topics and limited conditional graphical-interface coverage to one introductory multiple-choice question in each edition.
+- Matched the approved layout, headers, centered copyright footer, blank answer areas, and black answer keys. Used an embedded monospaced font for inline Java and code blocks.
+- Compiled both LaTeX sources and visually reviewed every page. Verified question counts, marks, question-led page starts, typography, and page bounds.
+- Checked all twenty long-answer solutions with compiled Java and executed the five runtime multiple-choice snippets, including relevant boundary cases.
+- Verified normal and maximum-length signup-email footer previews. Stored exam artifacts outside the repository; no publication or GitHub commit performed.
