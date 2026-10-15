@@ -6,7 +6,7 @@ import {engineeringFields} from '../config/engineering-fields.js';
 import {matchesCourse} from '../lib/catalog.js';
 // Independent transcription of the supplied eng_list.md and requested additions.
 const expected={
- 'Software Engineering':'comp232 comp352 comp346 elec275 soen331 comp249',
+ 'Software Engineering':'comp232 comp352 comp346 soen228 soen331 comp249',
  'Computer Engineering':'coen352 coen346 elec273 elec342 coen311',
  'Electrical Engineering':'elec342 elec372 elec331 elec311 elec251 coen352',
  'Mechanical Engineering':'engr244 engr361 mech352 mech371 mech343 mech351',

@@ -8,7 +8,7 @@ export const tracks = [
       "comp-232",
       "comp-352",
       "comp-346",
-      "elec-275",
+      "soen-228",
       "soen-331",
       "comp-249"
     ]

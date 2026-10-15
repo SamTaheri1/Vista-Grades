@@ -94,11 +94,11 @@ const courses = [
     ]
   },
   {
-    "id": "elec-275",
-    "code": "ELEC 275",
-    "title": "Principles of Electrical Engineering",
-    "description": "Core and Advanced practice for Principles of Electrical Engineering. Topic coverage will be confirmed before release.",
-    "sourceUrl": "https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-60-engineering-course-descriptions/electrical-engineering-courses.html",
+    "id": "soen-228",
+    "code": "SOEN 228",
+    "title": "System Hardware",
+    "description": "Core and Advanced practice for System Hardware. Topic coverage will be confirmed before release.",
+    "sourceUrl": "https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-10-computer-science-and-software-engineering-courses.html#3645",
     "metadataVerifiedAt": "2026-09-29",
     "practiceKind": "mock",
     coverageNote: note,

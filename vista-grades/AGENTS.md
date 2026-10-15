@@ -159,6 +159,7 @@ This file is a living instruction and feedback record for future agents, not mod
 - Core should test direct application of taught concepts. Advanced should require more reasoning through those same concepts, such as combining familiar rules, explaining a result, or testing a changed assumption. Do not create difficulty through obscure contexts, long wording, excessive calculation, or unrelated theory.
 - Keep long-answer questions focused on one main learning objective. Prefer one or two purposeful parts, with a maximum of three. Remove redundant follow-ups and unrelated tasks; a single complete proof or calculation does not need artificial subparts.
 - When simplifying, preserve a meaningful skill to assess. Replace a complicated application with a direct exercise in its underlying concept, rather than merely shortening the wording or lowering the numbers.
+- On every PDF-content refinement, capture the user's underlying learning preference in these reusable rules. Prefer direct understanding of taught fundamentals; add difficulty through familiar reasoning, not unfamiliar terminology, elaborate tasks, or production effort.
 - Use code or pseudocode only when the requested coverage calls for programming or algorithm analysis. For a mathematical concept that can be assessed directly, prefer a calculation, sequence, relation, diagram, or proof. A code-free request excludes code from both questions and answers.
 - Avoid specialized story settings that require more explanation than the concept being tested. For example, an elaborate applied system can be replaced by a direct use of its underlying mathematical rule when the requested coverage permits. This is not a blanket ban on any course topic.
 
@@ -234,6 +235,7 @@ This file is a living instruction and feedback record for future agents, not mod
 - Common course outlines are located in the “Engineering Core” folder for courses listed in the “Engineering Core” section of the website.
 - Every generated PDF must stay consistent in design, structure, formatting, problem style, syntax, and solvability.
 - Apply the reusable revision lessons above to the current course's taught concepts; examples illustrate design principles, not mandatory topics or question templates for every course.
+- Refer to Studocu or websites providing sample mock exams/practice questions under the course title for better accuracy, if needed.
 
 ### Code Approval
 - Do not commit to GitHub unless prompted.

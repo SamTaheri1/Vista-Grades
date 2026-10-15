@@ -258,3 +258,36 @@ Status: Private paid PDF masters; signup-email personalization verified using th
 - Compiled both LaTeX sources and visually reviewed every page. Verified question counts, marks, question-led page starts, typography, and page bounds.
 - Checked all twenty long-answer solutions with compiled Java and executed the five runtime multiple-choice snippets, including relevant boundary cases.
 - Verified normal and maximum-length signup-email footer previews. Stored exam artifacts outside the repository; no publication or GitHub commit performed.
+
+## COMP 249: Core Exam Practice and Advanced Exam Practice - revision 1.1
+
+Version: 1.1\
+Last updated: 2026-10-14\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Replaced diagram tasks and substantial code-writing exercises with basic tracing and explanations, emphasizing polymorphism and exception handling.
+- Restricted linked-list assessment to a short true-or-false item in each exam. Replaced unfamiliar design terminology and applications with taught fundamentals.
+- Preserved unrelated questions, approved styling, monospaced Java, and blank answer areas; updated corresponding answers and marking guidance.
+- Compiled both sources, visually inspected all pages, executed the long-answer traces, and verified serialization plus deliberate compilation errors and corrected outputs.
+- Verified counts, points, black answer-key text, page bounds, and normal and long signup-email footer previews.
+- Added a concise general learning-preference rule for future PDF refinements. Kept all exam artifacts private and outside the repository.
+
+## COMP 249: Core Exam Practice and Advanced Exam Practice - revision 1.2
+
+Version: 1.2\
+Last updated: 2026-10-14\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Replaced the final long-answer task in both editions with nested-class practice, using a more demanding shared-field trace in Advanced.
+- Replaced excluded serialization terminology and mechanisms with basic object saving, reading, casts, and reading order; updated the affected short questions and solutions.
+- Preserved all unrelated content and monospaced code. Adjusted Advanced answer space and answer-key pagination without splitting solutions.
+- Compiled and visually reviewed both PDFs, executed the revised Java snippets, and verified counts, marks, black answer text, and personalized footers.
+- Left AGENTS.md unchanged; the existing general fundamentals rule already covers this refinement. Kept all exam artifacts private and outside the repository.
