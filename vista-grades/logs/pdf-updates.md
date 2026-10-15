@@ -291,3 +291,19 @@ Status: Private paid PDF masters; signup-email personalization verified
 - Preserved all unrelated content and monospaced code. Adjusted Advanced answer space and answer-key pagination without splitting solutions.
 - Compiled and visually reviewed both PDFs, executed the revised Java snippets, and verified counts, marks, black answer text, and personalized footers.
 - Left AGENTS.md unchanged; the existing general fundamentals rule already covers this refinement. Kept all exam artifacts private and outside the repository.
+## SOEN 228: Core Exam Practice and Advanced Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-14\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Created original questions within the supplied course-content outline, using the reference practice exam for exercise-type inspiration.
+- Covered digital logic, number representation, instruction tracing, CPU datapaths, cache organization, and I/O; Advanced adds deeper reasoning through the same fundamentals.
+- Included one timing-diagram long-answer question per edition, using two binary signal rows and four or six time intervals, with drawn waveforms in the answer keys.
+- Verified arithmetic, Boolean truth tables, assembly and cache traces, address fields, floating-point encoding, datapath operations, and marks with independent calculations and executable checks.
+- Compiled both LaTeX sources and visually reviewed all pages, including final answer-key pagination and a maximum-length email-footer preview. Verified signup-email stamping on every page of both preview copies.
+- Preserved the established design, blank answer areas, and black answer-key text. Saved all exam artifacts outside the repository; no publication or GitHub commit performed.
