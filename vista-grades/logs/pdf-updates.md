@@ -307,3 +307,20 @@ Status: Private paid PDF masters; signup-email personalization verified
 - Verified arithmetic, Boolean truth tables, assembly and cache traces, address fields, floating-point encoding, datapath operations, and marks with independent calculations and executable checks.
 - Compiled both LaTeX sources and visually reviewed all pages, including final answer-key pagination and a maximum-length email-footer preview. Verified signup-email stamping on every page of both preview copies.
 - Preserved the established design, blank answer areas, and black answer-key text. Saved all exam artifacts outside the repository; no publication or GitHub commit performed.
+
+## SOEN 331: Core Exam Practice and Advanced Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-15\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Created original Core and Advanced editions from the supplied course-content outline and two practice references, emphasizing the concise MCQ style of the shorter sample.
+- Covered temporal logic, sets and sequences, functions, binary relations and orders, relational calculus, Z specifications, and UML state machines.
+- Made trace semantics, domain assumptions, composition order, and event handling explicit. Independently checked the keys instead of relying on reference annotations.
+- Verified logical cases, temporal properties on repeating infinite traces, relation operations, function repairs, Z invariants, and state-machine traces with executable checks and mathematical reasoning.
+- Compiled both LaTeX sources and visually reviewed all final pages. Verified counts, points, question-led page starts, superscript primes, black answer keys, diagram layouts, and personalized email footers.
+- Saved exam artifacts outside the repository. No website publication or GitHub commit performed.
