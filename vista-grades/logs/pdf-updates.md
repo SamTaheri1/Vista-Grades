@@ -324,3 +324,19 @@ Status: Private paid PDF masters; signup-email personalization verified
 - Verified logical cases, temporal properties on repeating infinite traces, relation operations, function repairs, Z invariants, and state-machine traces with executable checks and mathematical reasoning.
 - Compiled both LaTeX sources and visually reviewed all final pages. Verified counts, points, question-led page starts, superscript primes, black answer keys, diagram layouts, and personalized email footers.
 - Saved exam artifacts outside the repository. No website publication or GitHub commit performed.
+
+## COMP 346: Core Exam Practice and Advanced Exam Practice - version 1.0
+
+Version: 1.0\
+Last updated: 2026-10-16\
+Verified pages: 12 per PDF\
+Questions: 24 per PDF (8 multiple-choice, 6 true-or-false, 10 long-answer)\
+Total points: 120 per PDF\
+Answer key: Included in both\
+Status: Private paid PDF masters; signup-email personalization verified
+
+- Created original Core and Advanced practice within the supplied course-content outline, using both provided finals for inspiration and the longer reference for conceptual MCQ style.
+- Covered OS structures, processes and threads, synchronization, scheduling, deadlocks, memory management, and Unix files and protection.
+- Independently checked scheduling traces, race interleavings, Banker safety, page replacement, address translation, page-table sizes, and inode allocation calculations; reviewed conceptual choices and explanations.
+- Compiled both LaTeX sources and visually inspected all pages, including Gantt charts and resource-allocation graphs. Verified counts, marks, black answer keys, blank answer spaces, headers, and personalized footers.
+- Saved all exam artifacts privately outside the repository. No publication or GitHub commit performed.
